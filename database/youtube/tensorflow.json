@@ -30,5 +30,14 @@
     "category": "youtube",
     "subcategory": "tensorflow",
     "language": "english"
+  },
+  {
+    "name": "Nicholas Renotte",
+    "description": " This channel is a treasure trove of knowledge for anyone passionate about machine learning and TensorFlow. With a focus on practical tutorials and hands-on demonstrations, this channel provides invaluable insights into the world of artificial intelligence and deep learning.",
+    "url": "https://www.youtube.com/@NicholasRenotte",
+    "category": "youtube",
+    "subcategory": "tensorflow",
+    "language": "english"
   }
+
 ]
